@@ -1,5 +1,5 @@
 <img src="http://blog.apps.npr.org/lunchbox/img/icon-lunchbox.svg" width="150" alt="Lunchbox">
-<img src="http://lunchbox.kbia.org/lunchbox/img/kbia_main.png" width="150" alt="Lunchbox">
+<img src="http://lunchbox.kbia.org/lunchbox/img/KBIA_main.png" width="150" alt="Lunchbox">
 =============
 
 * [What is this?](#what-is-this)
