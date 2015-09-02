@@ -18,6 +18,8 @@ What is this?
 * *Factlist*: Produces a branded image with a list of items.
 * *Waterbug*: Creates a watermarked image with attribution.
 
+This particular version has been modified for use by KBIA.
+
 Assumptions 
 -------------
 
